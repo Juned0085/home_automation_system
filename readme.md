@@ -47,18 +47,22 @@ cd home_automation_system
 python -m venv venv
 venv\Scripts\activate  # Windows
 pip install -r requirements.txt
+
 ## 🚀 How to Run
 ```bash
 python main.py
+
 ## 🧪 Sample Commands
 ```text
 living_room_light on
 bedroom_fan off
 exit
+
 ## 🔮 Future Enhancements
 - Add voice control with speech recognition
 - Create a web interface using Flask
 - Hardware integration with Raspberry Pi
+
 ## 👨‍💻 Author
 **Juned Rafik Mulla**  
 📧 [juneduzer@gmail.com](mailto:juneduzer@gmail.com)  
