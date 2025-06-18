@@ -39,22 +39,22 @@ python -m venv venv
 venv\Scripts\activate  # Windows
 pip install -r requirements.txt
 
-## 🚀 How to Run
+##  How to Run
 ```bash
 python main.py
 
-## 🧪 Sample Commands
+##  Sample Commands
 ```text
 living_room_light on
 bedroom_fan off
 exit
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 - Add voice control with speech recognition
 - Create a web interface using Flask
 - Hardware integration with Raspberry Pi
 
-## 👨‍💻 Author
+##  Author
 **Juned Rafik Mulla**  
 📧 [juneduzer@gmail.com](mailto:juneduzer@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/juned-mulla/)  
